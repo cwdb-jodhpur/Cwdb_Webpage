@@ -42,6 +42,10 @@ export default function HomePage() {
 
   const newsItems = [
     { 
+      text: 'Swachhta Hi Seva Vishesh Abhiyan Report', 
+      link: '/files/Swachhata_Hi_Seva2026.pdf' 
+    },
+    { 
       text: 'Result of test (Written test held on 24-01-2026 and skill test on 2/3 June, 2026) to fill up one post of MTS, CWDB', 
       link: '/files/631.pdf' 
     },
