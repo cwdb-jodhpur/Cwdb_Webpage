@@ -9,8 +9,8 @@ export default function TenderNoticePage() {
   const tenders = [
     {
       no: 1,
-      description: ' REQUEST FOR PROPOSAL Selection of Consultant for Conducting Study on Pashmina Product Innovation – Going Beyond Traditional Shawls.',
-      link: '/files/REQUEST FOR PROPOSAL Selection of Consultant for Conducting Study on Pashmina Product Innovation Going Beyond Traditional Shawls.pdf',
+      description: 'REQUEST FOR PROPOSAL (RFP) Selection of Consultant for Conducting Study on Pashmina Product Innovation Going Beyond Traditional Shawls and Preparation of Draft Indian Pashmina Protection, Promotion and Development Bill',
+      link: '/files/REQUEST FOR PROPOSAL (RFP) Selection of Consultant for Conducting Study on Pashmina Product Innovation Going Beyond Traditional Shawls and Preparation of Draft Indian Pashmina Protection, Promotion an.pdf',
     },
     {
       no: 2,
