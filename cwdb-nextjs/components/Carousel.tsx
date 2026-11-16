@@ -10,6 +10,11 @@ type CarouselImage = {
 };
 
 const carouselImages: CarouselImage[] = [
+  {
+    src: '/images/PLI.jpeg',
+    alt: 'Production Linked Incentive (PLI) Scheme for Textiles - Applications open from Nov 1 to Dec 31, 2026. Click here to apply.',
+    link: 'https://pli.texmin.gov.in/',
+  },
   { src: '/images/OPEN FILE.jpeg', alt: 'Slide 2' },
   { src: '/images/pexels-maria-orlova-4946859_019f3.jpg', alt: 'Slide 3' },
   { src: '/images/pexels-quang-nguyen-vinh-3232019_166f0.jpg', alt: 'Slide 4' },
