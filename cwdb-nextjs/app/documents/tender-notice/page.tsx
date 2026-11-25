@@ -9,51 +9,56 @@ export default function TenderNoticePage() {
   const tenders = [
     {
       no: 1,
+      description: 'Clarification regarding corrigendum dated 06.11.2026 – Tender No. 2026_CWDB_932165_1 for “Pashmina Product Innovation – Going Beyond Traditional Shawls” and Preparation of Draft Indian Pashmina Protection, Promotion and Development Bill.',
+      link: '/files/Pashmina-Tender-Corrigendum-Clarification.pdf',
+    },
+    {
+      no: 2,
       description: 'REQUEST FOR PROPOSAL (RFP) Selection of Consultant for Conducting Study on Pashmina Product Innovation Going Beyond Traditional Shawls and Preparation of Draft Indian Pashmina Protection, Promotion and Development Bill',
       link: '/files/REQUEST FOR PROPOSAL (RFP) Selection of Consultant for Conducting Study on Pashmina Product Innovation Going Beyond Traditional Shawls and Preparation of Draft Indian Pashmina Protection, Promotion an.pdf',
     },
     {
-      no: 2,
+      no: 3,
       description: ' TENDER DOCUMENT FOR THE SUPPLY OF Spinning Wheel',
       link: '/files/TENDER DOCUMENT FOR THE SUPPLY OF Spinning Wheel.pdf',
     },
     {
-      no: 3,
+      no: 4,
       description: ' EXPRESSION OF INTEREST(EOI) FOR IDENTIFICATION AND EMPANELMENT OF TECHNICAL SUPPORT PARTNERS FOR PROVISIONING OF TRAINING INFRASTRUCTURE, MANPOWER AND OTHER RESOURCES, CANDIDATE MOBILIZATION, TRAINING MATERIALS, AND PLACEMENT SUPPORT IN THE WOOL, TEXTILE AND ALLIED SECTORS.',
       link: '/files/BP-30M31_20260908_181448.pdf',
     },
     {
-      no: 4,
+      no: 5,
       description: 'TENDER DOCUMENT for supply of Spinning Wheel and Hand Operated Carding Machine',
       link: '/files/TENDER DOCUMENT for supply of Spinning Wheel and Hand Operated Carding Machine.pdf',
     },
     {
-      no: 5,
+      no: 6,
       description: 'Tender Document for the supply of Shearing Machine and Accessories',
       link: '/files/Tender Document for the supply of Shearing Machine and Acessories.pdf',
     },
     {
-      no: 6,
+      no: 7,
       description: 'TENDER FOR SUPPLY, INSTALLATION, TESTING AND COMMISSIONING (SITC) OF 250 KWP,35 KWP,50 KWP GRID CONNECTED ROOFTOP SOLAR PV POWER PLANT AT VARIOUS LOCATIONS',
       link: '/files/TENDER FOR SUPPLY, INSTALLATION, TESTING AND COMMISSIONING (SITC) OF 250 KWP,35 KWP,50 KWP GRID CONNECTED ROOFTOP SOLAR PV POWER PLANT AT VARIOUS LOCATIONS.pdf',
     },
     {
-      no: 7,
+      no: 8,
       description: 'Advertisement for Procurement of OFDA 4000 as Proprietary Product',
       link: '/files/Advertisement for Procurement of OFDA 4000 as Proprietary Product.pdf',
     },
     {
-      no: 8,
+      no: 9,
       description: 'Corrigendum for Date Extension of submission of Bid for PMU tender',
       link: '/files/ExtensiondatecorriPMU.pdf',
     },
     {
-      no: 9,
+      no: 10,
       description: 'Corrigendum for Addition/ Modification after Pre Bid Meeting for PMU tender.',
       link: '/files/mod_add_afterprebidqueriesPMU.pdf',
     },
     {
-      no: 10,
+      no: 11,
       description: 'Notice for empanelment of PMU',
       link: '/files/PMUempnltender.pdf',
     },
